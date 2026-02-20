@@ -1,0 +1,7 @@
+{
+  "name": "AI Video Prompt Genius",
+  "description": "A professional tool that analyzes videos segment-by-segment to generate consistent AI prompts for every 8 seconds of footage.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
